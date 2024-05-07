@@ -28,7 +28,7 @@ pip3 install boto3
 
 ## 4.apicall.py  <br />
    This is the script to utilize Claude 3 Opus on Amazon Bedrock to develop a Side-Scrolling browser game, the sample code is based on the Claude 3 Opus examples provided by Amazon Bedrock. The script defines the prompt and generates the source code of the game, users can open the game directly in the web browser.
-   you can refer to this [Article]([https://pages.github.com/](https://community.aws/content/2fvcf7pytefRYGPtkRpCaqwXcl5/get-started-with-claude-3-opus-on-amazon-bedrock-quickly-through-real-world-use-cases)) to know more about the case.
+   you can refer to this [Article](https://community.aws/content/2fvcf7pytefRYGPtkRpCaqwXcl5/get-started-with-claude-3-opus-on-amazon-bedrock-quickly-through-real-world-use-cases) to know more about the case.
    ```
    python modellist.py
    ```
